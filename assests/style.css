@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    background-color:antiquewhite;
+
+}
+
+main{
+
+width:100%
+
+}
+
+.Hero{
+
+border-radius:3%;
+width: 50%;
+background-color: rgb(100, 95, 167);
+display: flex;
+margin: auto;
+justify-content:center;
+}
+
+.section1{
+display: flex;
+
+flex-wrap: wrap;
+gap: 20px;
+justify-content:center;
+
+}
+
+.div1{
+    width:30%;
+}
+
+
+
+
+
